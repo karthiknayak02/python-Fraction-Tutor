@@ -1,5 +1,5 @@
 # python-Fraction-Tutor
-Basic use of python graphics library #
+Basic use of python graphics library 
 
 # 
 Pre-setup:
